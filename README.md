@@ -4,22 +4,6 @@ An end-to-end sales analysis of 10,000 e-commerce order lines (2011–2014), bui
 
 
 
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Business Questions Answered](#business-questions-answered)
-- [Repository Contents](#repository-contents)
-- [Dataset](#dataset)
-- [Dashboard Features](#dashboard-features)
-- [Headline KPIs](#headline-kpis)
-- [Key Insights](#key-insights)
-- [Methodology](#methodology)
-- [How to Use](#how-to-use)
-- [Tools & Skills Demonstrated](#tools--skills-demonstrated)
-- [Possible Next Steps](#possible-next-steps)
-- [Author](#author)
 
 ---
 
