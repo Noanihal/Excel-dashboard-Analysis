@@ -2,7 +2,7 @@
 
 An end-to-end sales analysis of ~10,000 e-commerce order lines (2011–2014), built entirely in **Microsoft Excel** using PivotTables, PivotCharts, slicers and a KPI-style dashboard. The project answers a practical business question: **where does the business make money, where does it lose it, and how is it trending year over year?**
 
-![Dashboard preview](images/dashboard-preview.png)
+
 
 ---
 
