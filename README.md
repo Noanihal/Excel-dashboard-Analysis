@@ -139,17 +139,8 @@ There are no missing values in any column.
 - **Data analysis**: trend and seasonality analysis, year-over-year growth, profitability and mix analysis
 - **Business storytelling**: turning raw data into findings a stakeholder can act on
 
-## Possible Next Steps
 
-- Add a distinct-count measure (Data Model) so "Orders" reports unique orders (5,009) as well as order lines (9,994).
-- Add a **Discount vs. Profit** analysis to quantify the margin impact of discounting by sub-category.
-- Add customer-level analysis (repeat purchase rate, top customers, RFM segmentation).
-- Rebuild the dashboard in **Power BI** or **Tableau** for web sharing.
 
-## Author
-
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
 
 ---
 
